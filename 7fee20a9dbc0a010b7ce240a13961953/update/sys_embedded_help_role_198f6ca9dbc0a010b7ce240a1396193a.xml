@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="ron_s_workspace" name="ron_s_workspace">558f6ca9dbc0a010b7ce240a13961937</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-23 22:39:15</sys_created_on>
+        <sys_id>198f6ca9dbc0a010b7ce240a1396193a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>558f6ca9dbc0a010b7ce240a13961937</sys_name>
+        <sys_package display_value="Ron's Workspace" source="x_snc_ron_s_worksp">7fee20a9dbc0a010b7ce240a13961953</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ron's Workspace">7fee20a9dbc0a010b7ce240a13961953</sys_scope>
+        <sys_update_name>sys_embedded_help_role_198f6ca9dbc0a010b7ce240a1396193a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-23 22:39:15</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

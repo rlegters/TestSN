@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <brand_color/>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="Ron's Workspace">cb7fe8a9dbc0a010b7ce240a13961953</compiled_page_registry>
+        <description/>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="Ron's Workspace Search Context Config">8b7fe8a9dbc0a010b7ce240a13961951</global_search_data>
+        <hide_search_results_count>false</hide_search_results_count>
+        <name>Ron's Workspace</name>
+        <navigation_type>tab</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <primary_color/>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-23 22:39:06</sys_created_on>
+        <sys_id>877fe8a9dbc0a010b7ce240a13961953</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ron's Workspace</sys_name>
+        <sys_package display_value="Ron's Workspace" source="x_snc_ron_s_worksp">7fee20a9dbc0a010b7ce240a13961953</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ron's Workspace">7fee20a9dbc0a010b7ce240a13961953</sys_scope>
+        <sys_update_name>sys_aw_master_config_877fe8a9dbc0a010b7ce240a13961953</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-23 22:39:06</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_logo/>
+        <workspace_url>ron_s_workspace</workspace_url>
+    </sys_aw_master_config>
+</record_update>

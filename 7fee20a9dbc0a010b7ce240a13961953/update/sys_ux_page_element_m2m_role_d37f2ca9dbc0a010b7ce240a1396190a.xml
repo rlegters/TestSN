@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_element_m2m_role">
+    <sys_ux_page_element_m2m_role action="INSERT_OR_UPDATE">
+        <element display_value="Analytics Center Button">937f2ca9dbc0a010b7ce240a13961902</element>
+        <group/>
+        <role display_value="pa_viewer" name="pa_viewer">a90d30b3bf101100b96dac808c073950</role>
+        <sys_class_name>sys_ux_page_element_m2m_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-23 22:39:07</sys_created_on>
+        <sys_id>d37f2ca9dbc0a010b7ce240a1396190a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Ron's Workspace" source="x_snc_ron_s_worksp">7fee20a9dbc0a010b7ce240a13961953</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ron's Workspace">7fee20a9dbc0a010b7ce240a13961953</sys_scope>
+        <sys_update_name>sys_ux_page_element_m2m_role_d37f2ca9dbc0a010b7ce240a1396190a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-23 22:39:07</sys_updated_on>
+    </sys_ux_page_element_m2m_role>
+</record_update>
